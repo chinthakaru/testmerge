@@ -1,7 +1,3 @@
-#1
-#2
-#3
-fsfs
-data "" "name" {
-  
-}ssdsds
+M1
+M2
+M3
